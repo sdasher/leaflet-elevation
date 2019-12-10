@@ -127,6 +127,7 @@ L.GpxGroup = L.Class.extend({
       // width: 500,
       detachedView: true,
       elevationDiv: '#elevation-div',
+      imperial: true,
     },
     distanceMarkers: true,
     distanceMarkers_options: {
